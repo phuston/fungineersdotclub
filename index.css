@@ -1,0 +1,45 @@
+.nav {
+  background: #303F9F;
+  overflow: auto;
+}
+
+.nav a {
+  color: white;
+  font-size: 12px;
+  font-weight: bold;
+  padding-right: 2em;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+}
+
+.jumbotron {
+  background-color: #3F51B5;
+  overflow:auto;
+  height: 13rem;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  }
+
+.jumbotron .container {
+  position: center;
+  left:5rem;
+  top:1rem;
+}
+
+.jumbotron h1 {
+  color: #212121;
+  font-size: 55px;  
+  font-weight: bold;
+}
+
+.jumbotron p {
+  color: #212121;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+
